@@ -1,32 +1,33 @@
 # Привет! 👋 Меня зовут Кристина
 
 Добро пожаловать в мой профиль GitHub! 🚀 Я веб-разработчик с опытом работы над коммерческими и личными проектами. Специализируюсь на создании веб-приложений с использованием Django и сопутствующих технологий.  
+
 ## 🛠️ Навыки
 
-- **Языки программирования:** 
-  ![Python](https://img.icons8.com/color/48/000000/python.png) Python, 
-  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript, 
-  ![Java](https://img.icons8.com/color/48/000000/java.png) Java
+- **Языки программирования:**  
+  ![Python](https://img.icons8.com/color/48/000000/python.png) 
+  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) 
+  ![Java](https://img.icons8.com/color/48/000000/java.png) 
 
-- **Фреймворки:** 
-  ![Django](https://img.icons8.com/color/48/000000/django.png) Django 4.2.2, 
-  ![Django REST Framework](https://img.icons8.com/color/48/000000/django.png) Django REST Framework (DRF), 
-  ![Flask](https://img.icons8.com/color/48/000000/flask.png) Flask
+- **Фреймворки:**  
+  ![Django](https://img.icons8.com/color/48/000000/django.png) 
+  ![Django REST Framework](https://img.icons8.com/color/48/000000/django.png)  
+  ![Flask](https://img.icons8.com/color/48/000000/flask.png)
 
-- **Инструменты:** 
-  ![Git](https://img.icons8.com/color/48/000000/git.png) Git, 
-  ![Docker](https://img.icons8.com/color/48/000000/docker.png) Docker, 
-  ![Celery](https://img.icons8.com/color/48/000000/celery.png) Celery, 
-  ![Postman](https://img.icons8.com/color/48/000000/postman.png) Postman
+- **Инструменты:**  
+  ![Git](https://img.icons8.com/color/48/000000/git.png)  
+  ![Docker](https://img.icons8.com/color/48/000000/docker.png)  
+  ![Celery](https://img.icons8.com/color/48/000000/celery.png)  
+  ![Postman](https://img.icons8.com/color/48/000000/postman.png)
 
-- **Базы данных:** 
-  ![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png) PostgreSQL, 
-  ![SQLite](https://img.icons8.com/color/48/000000/sqlite.png) SQLite
+- **Базы данных:**  
+  ![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png)  
+  ![SQLite](https://img.icons8.com/color/48/000000/sqlite.png)
 
-- **DevOps:** 
-  ![Nginx](https://img.icons8.com/color/48/000000/nginx.png) Nginx, 
-  ![Gunicorn](https://img.icons8.com/color/48/000000/python.png) Gunicorn, 
-  ![CI/CD](https://img.shields.io/badge/GitHub%20Actions-1.0-green?style=flat&logo=github-actions) CI/CD (GitHub Actions)
+- **DevOps:**  
+  ![Nginx](https://img.icons8.com/color/48/000000/nginx.png)  
+  ![Gunicorn](https://img.icons8.com/color/48/000000/python.png)  
+  ![CI/CD](https://img.shields.io/badge/GitHub%20Actions-1.0-green?style=flat&logo=github-actions)
 
 
 ## 🌟 Коммерческий проект

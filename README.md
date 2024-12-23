@@ -58,7 +58,7 @@
 | ![Email](https://img.icons8.com/fluency/48/000000/email.png)   | [ssspers92@gmail.com](mailto:ssspers92@gmail.com)  |
 | ![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png) | [LinkedIn](https://www.linkedin.com/in/lee-geller/) |
 |  ![GitHub](https://img.icons8.com/fluency/48/000000/github.png) | [Портфолио](https://github.com/LeeGeller/LeeGeller-) |
-| [Telegram](https://img.icons8.com/fluency/48/000000/telegram.png) | [Telegram](https://t.me/BoboBoWhisky) |
+| ![Telegram](https://img.icons8.com/fluency/48/000000/telegram-app.png) | [Telegram](https://t.me/BoboBoWhisky) |
 
 
 

@@ -12,15 +12,11 @@
 
 ## 🎓 Сертификаты
 
-### 🧑‍💻 **Технические навыки**
-- ![Git](https://img.shields.io/badge/Git-%E2%9C%94-4cbbff?style=flat) [Сертификат по Git](https://github.com/LeeGeller/LeeGeller/blob/main/Git.pdf)
-- ![Python](https://img.shields.io/badge/Python-%E2%9C%94-0078d4?style=flat) [Сертификат Python](https://github.com/LeeGeller/LeeGeller/blob/main/c05932aebef7da98da977435bbcafe20.jpg)
-
-### 📋 **Тестирование**
-- ![Testing](https://img.shields.io/badge/Manual%20Testing-%E2%9C%94-f5a623?style=flat) [Сертификат по тестированию](https://github.com/LeeGeller/LeeGeller/blob/main/%D0%9C%D0%BE%D0%B4%D0%B8%D1%83%20%D0%BF%D0%BE%20%D1%80%D1%83%D1%87%D0%BD%D0%BE%D0%BC%D1%83%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%BD-2.pdf)
-
-### 🌍 **Языки**
-- ![English](https://img.shields.io/badge/English-%E2%9C%94-41b883?style=flat) [Сертификат по английскому](https://github.com/LeeGeller/LeeGeller/blob/main/Kristina%20Budnik.pdf)
+| **Категория**         | **Сертификат**                                                                                          |
+|-----------------------|---------------------------------------------------------------------------------------------------------|
+| 🧑‍💻 **Технические навыки** | ![Git](https://img.shields.io/badge/Git-%E2%9C%94-4cbbff?style=flat) [Сертификат по Git](https://github.com/LeeGeller/LeeGeller/blob/main/Git.pdf) <br> ![Python](https://img.shields.io/badge/Python-%E2%9C%94-0078d4?style=flat) [Сертификат Python](https://github.com/LeeGeller/LeeGeller/blob/main/c05932aebef7da98da977435bbcafe20.jpg) |
+| 📋 **Тестирование**   | ![Testing](https://img.shields.io/badge/Manual%20Testing-%E2%9C%94-f5a623?style=flat) [Сертификат по тестированию](https://github.com/LeeGeller/LeeGeller/blob/main/%D0%9C%D0%BE%D0%B4%D0%B8%D1%83%20%D0%BF%D0%BE%20%D1%80%D1%83%D1%87%D0%BD%D0%BE%D0%BC%D1%83%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%BD-2.pdf) |
+| 🌍 **Языки**           | ![English](https://img.shields.io/badge/English-%E2%9C%94-41b883?style=flat) [Сертификат по английскому](https://github.com/LeeGeller/LeeGeller/blob/main/Kristina%20Budnik.pdf) |
 
 
 

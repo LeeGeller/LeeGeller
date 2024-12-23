@@ -11,37 +11,6 @@
 | ![Java](https://img.shields.io/badge/Java-11-blue?style=flat&logo=java) | ![Flask](https://img.shields.io/badge/Flask-2.1-blue?style=flat&logo=flask) | ![Redis](https://img.shields.io/badge/Redis-6.2-red?style=flat&logo=redis) | | ![CI/CD](https://img.shields.io/badge/GitHub%20Actions-1.0-green?style=flat&logo=github-actions) |
 
 
-
-
-
-## 🌟 Коммерческий проект
-- **Django Web Application**
-  Разработка веб-приложения для управления [описание функционала, например: расписаниями, аналитикой, тестами].
-  - **Технологии:** Django 4.2.2, PostgreSQL, Redis, Celery
-  - **Роль:** Backend-разработка (создание REST API, настройка асинхронной обработки задач, использование Redis для кэширования и управления очередями задач)
-  - **Результат:** Успешное внедрение приложения с улучшенной производительностью и масштабируемостью
-
-
-## 📂 Личные проекты  
-
-### Проекты с использованием Django  
-
-- **[Django Telegram Bot Integration](https://github.com/LeeGeller/django-telegram-bot)**  
-  Интеграция Telegram-бота в Django-приложение для автоматизации взаимодействия с пользователями.  
-
-- **[Role-Based Access Control (RBAC)](https://github.com/LeeGeller/django-rbac-system)**  
-  Реализация системы ролей и разрешений с различными уровнями доступа (операторы, менеджеры, администраторы).  
-
-### Проекты с использованием Python  
-- **[OpenVPN Setup Automation](https://github.com/LeeGeller/openvpn-setup)**  
-  Скрипт автоматизации настройки OpenVPN на сервере и клиенте.  
-
-- **[Task Queue with Celery](https://github.com/LeeGeller/django-celery-queue)**  
-  Пример использования Celery для выполнения фоновых задач в Django-приложении.  
-
-- **[API Development with DRF](https://github.com/LeeGeller/drf-api-project)**  
-  Разработка REST API для управления задачами и пользователями.  
-
 ## 🎓 Сертификаты  
 - [Сертификат по Django](https://github.com/LeeGeller/CV_and_Portfolio/blob/main/Django.pdf)  
 - [Сертификат по Python](https://github.com/LeeGeller/CV_and_Portfolio/blob/main/Python.pdf)  

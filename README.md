@@ -7,7 +7,7 @@
 - **Языки программирования:**  
   ![Python](https://img.icons8.com/color/48/000000/python.png) 
   ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) 
-  ![Java](https://img.icons8.com/color/48/000000/java.png) 
+  [![Java](https://img.icons8.com/color/48/000000/java.png) ](https://camo.githubusercontent.com/bfd2e7e309cf49120d8ea9b7e351e805a268468930f09ca09638c107ceaf2f27/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465)
 
 - **Фреймворки:**  
   ![Django](https://img.icons8.com/color/48/000000/django.png) 

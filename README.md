@@ -10,11 +10,13 @@
 | ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat&logo=javascript) | ![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-3.12-blue?style=flat&logo=django) | ![Celery](https://img.shields.io/badge/Celery-5.2-blue?style=flat&logo=celery) | ![SQLite](https://img.shields.io/badge/SQLite-3-blue?style=flat&logo=sqlite) | ![Nginx](https://img.shields.io/badge/Nginx-1.18-blue?style=flat&logo=nginx) |
 | ![Java](https://img.shields.io/badge/Java-11-blue?style=flat&logo=java) | ![Flask](https://img.shields.io/badge/Flask-2.1-blue?style=flat&logo=flask) | ![Redis](https://img.shields.io/badge/Redis-6.2-red?style=flat&logo=redis) | | ![CI/CD](https://img.shields.io/badge/GitHub%20Actions-1.0-green?style=flat&logo=github-actions) |
 
+## 🎓 Сертификаты
 
-## 🎓 Сертификаты  
-- [Сертификат по Django](https://github.com/LeeGeller/CV_and_Portfolio/blob/main/Django.pdf)  
-- [Сертификат по Python](https://github.com/LeeGeller/CV_and_Portfolio/blob/main/Python.pdf)  
-- [Другие сертификаты](https://github.com/LeeGeller/CV_and_Portfolio)  
+- ![Git](https://img.shields.io/badge/Git-%E2%9C%94-4cbbff?style=flat) [Сертификат по Git](https://github.com/LeeGeller/LeeGeller/blob/main/Git.pdf)
+- ![Testing](https://img.shields.io/badge/Manual%20Testing-%E2%9C%94-f5a623?style=flat) [Сертификат по тестированию](https://github.com/LeeGeller/LeeGeller/blob/main/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%D0%BF%D0%BE%20%D1%80%D1%83%D1%87%D0%BD%D0%BE%D0%BC%D1%83%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E-2.pdf)
+- ![English](https://img.shields.io/badge/English-%E2%9C%94-41b883?style=flat) [Сертификат по английскому](https://github.com/LeeGeller/LeeGeller/blob/main/Kristina%20Budnik.pdf)
+- ![Python](https://img.shields.io/badge/Python-%E2%9C%94-0078d4?style=flat) [Сертификат Python](https://github.com/LeeGeller/LeeGeller/blob/main/c05932aebef7da98da977435bbcafe20.jpg)
+
 
 ## 📈 Статистика GitHub  
 ![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=LeeGeller&show_icons=true&theme=radical)  

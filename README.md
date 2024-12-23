@@ -52,9 +52,11 @@
 ![Топ языки](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeGeller&layout=compact&theme=radical)  
 
 ## 💬 Контакты  
-- 📧 Email: ssspers92@gmail.com 
+- 📧 Email: [ssspers92@gmail.com](mailto:ssspers92@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/lee-geller/)  
-- 🌐 [Портфолио](https://github.com/LeeGeller/LeeGeller-)
+- 🌐 [Портфолио](https://github.com/LeeGeller/LeeGeller-)  
+- 📱 [Telegram](https://t.me/BoboBoWhisky)
+
 
 ## ✨ Интересные факты обо мне  
 - 🌱 Сейчас я углубляю свои знания в Django и асинхронной обработке задач.  

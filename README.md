@@ -1,14 +1,14 @@
 # Привет! 👋 Меня зовут Кристина
 
 Добро пожаловать в мой профиль GitHub! 🚀 Я веб-разработчик с опытом работы над коммерческими и личными проектами. Специализируюсь на создании веб-приложений с использованием Django и сопутствующих технологий.  
-
 ## 🛠️ Навыки
 
 | Языки программирования | Фреймворки              | Инструменты              | Базы данных         | DevOps           |
 |------------------------|-------------------------|--------------------------|---------------------|------------------|
-| ![Python](https://img.icons8.com/color/48/000000/python.png) | ![Django](https://img.icons8.com/color/48/000000/django.png) | ![Git](https://img.icons8.com/color/48/000000/git.png) | ![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png) | ![Nginx](https://img.icons8.com/color/48/000000/nginx.png) |
-| ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) | ![Django REST Framework](https://img.icons8.com/color/48/000000/django.png) | ![Docker](https://img.icons8.com/color/48/000000/docker.png) | ![SQLite](https://img.icons8.com/color/48/000000/sqlite.png) | ![Gunicorn](https://img.icons8.com/color/48/000000/python.png) |
-| ![Java](https://img.icons8.com/color/48/000000/java.png) | ![Flask](https://img.icons8.com/color/48/000000/flask.png) | ![Celery](https://img.icons8.com/color/48/000000/celery.png) | | ![CI/CD](https://img.shields.io/badge/GitHub%20Actions-1.0-green?style=flat&logo=github-actions) |
+| ![Python](https://img.icons8.com/color/48/000000/python.png) | ![Django](https://img.icons8.com/fluency/48/000000/django.png) | ![Git](https://img.icons8.com/fluency/48/000000/git.png) | ![PostgreSQL](https://img.icons8.com/fluency/48/000000/postgresql.png) | ![Nginx](https://img.icons8.com/fluency/48/000000/nginx.png) |
+| ![JavaScript](https://img.icons8.com/fluency/48/000000/javascript.png) | ![Django REST Framework](https://img.icons8.com/fluency/48/000000/django.png) | ![Docker](https://img.icons8.com/fluency/48/000000/docker.png) | ![SQLite](https://img.icons8.com/fluency/48/000000/sqlite.png) | ![Gunicorn](https://img.icons8.com/fluency/48/000000/python.png) |
+| ![Java](https://img.icons8.com/fluency/48/000000/java.png) | ![Flask](https://img.icons8.com/fluency/48/000000/flask.png) | ![Celery](https://img.icons8.com/fluency/48/000000/celery.png) | | ![CI/CD](https://img.shields.io/badge/GitHub%20Actions-1.0-green?style=flat&logo=github-actions) |
+
 
 
 

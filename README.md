@@ -10,6 +10,22 @@
 | ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat&logo=javascript) | ![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-3.12-blue?style=flat&logo=django) | ![Celery](https://img.shields.io/badge/Celery-5.2-blue?style=flat&logo=celery) | ![SQLite](https://img.shields.io/badge/SQLite-3-blue?style=flat&logo=sqlite) | ![Nginx](https://img.shields.io/badge/Nginx-1.18-blue?style=flat&logo=nginx) |
 | ![Java](https://img.shields.io/badge/Java-11-blue?style=flat&logo=java) | ![Flask](https://img.shields.io/badge/Flask-2.1-blue?style=flat&logo=flask) | ![Redis](https://img.shields.io/badge/Redis-6.2-red?style=flat&logo=redis) | | ![CI/CD](https://img.shields.io/badge/GitHub%20Actions-1.0-green?style=flat&logo=github-actions) |
 
+## 🧪 **Юнит-тестирование**
+| 🛠️ **Навыки**                                      | 📝 **Описание**                                                                                             |
+|----------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| ![unittest](https://img.shields.io/badge/unittest-%E2%9C%94-0078d4?style=flat) | Написание и выполнение юнит-тестов с использованием `unittest` и `pytest`.                                    |
+| ![API testing](https://img.shields.io/badge/API%20testing-%E2%9C%94-4cbbff?style=flat) | Создание тестов для API и сервисов.                                                                         |
+| ![CI/CD](https://img.shields.io/badge/CI%2FCD-%E2%9C%94-f5a623?style=flat) | Интеграция тестов в CI/CD пайплайны для автоматического тестирования кода.                                    |
+
+## 🛠️ **Методологии разработки**
+| 🛠️ **Методология**                             | 📝 **Описание**                                                                                              |
+|------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| ![Agile](https://img.shields.io/badge/Agile-%E2%9C%94-41b883?style=flat)  | Знаком с методологией **Agile**, применяемой в гибкой разработке ПО.                                          |
+| ![Scrum](https://img.shields.io/badge/Scrum-%E2%9C%94-0078d4?style=flat)  | Опыт работы в Scrum-командах, участие в спринтах, ретроспективах и планировании.                              |
+| ![Kanban](https://img.shields.io/badge/Kanban-%E2%9C%94-41b883?style=flat) | Знаком с методологией **Kanban** для управления потоками задач и оптимизации процессов разработки.            |
+
+
+
 ## 🎓 Сертификаты
 
 | **Категория**         | **Сертификат**                                                                                          |

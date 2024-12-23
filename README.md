@@ -52,10 +52,14 @@
 ![Топ языки](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeGeller&layout=compact&theme=radical)  
 
 ## 💬 Контакты  
-- 📧 [Email](mailto:ssspers92@gmail.com) ![Email](https://img.icons8.com/fluency/48/000000/email.png)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/lee-geller/) ![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)  
-- 🌐 [Портфолио](https://github.com/LeeGeller/LeeGeller-) ![GitHub](https://img.icons8.com/fluency/48/000000/github.png)  
-- 📱 [Telegram](https://t.me/BoboBoWhisky) ![Telegram](https://img.icons8.com/fluency/48/000000/telegram.png)
+
+| Канал      | Ссылка                                | Иконка                                       |
+|------------|---------------------------------------|----------------------------------------------|
+| 📧 Email   | [ssspers92@gmail.com](mailto:ssspers92@gmail.com)  | ![Email](https://img.icons8.com/fluency/48/000000/email.png) |
+| 💼 LinkedIn | [LinkedIn](https://www.linkedin.com/in/lee-geller/) | ![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png) |
+| 🌐 Портфолио | [Портфолио](https://github.com/LeeGeller/LeeGeller-) | ![GitHub](https://img.icons8.com/fluency/48/000000/github.png) |
+| 📱 Telegram | [Telegram](https://t.me/BoboBoWhisky) | ![Telegram](https://img.icons8.com/fluency/48/000000/telegram.png) |
+
 
 
 

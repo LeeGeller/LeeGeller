@@ -38,8 +38,8 @@
 | 🌍 **Языки**           | ![English](https://img.shields.io/badge/English-%E2%9C%94-41b883?style=flat) [Сертификат по английскому](https://github.com/LeeGeller/LeeGeller/blob/main/Kristina%20Budnik.pdf) |
 
 ## 📈 Статистика GitHub  
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=LeeGeller&show_icons=true&theme=radical)  
-![Топ языки](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeGeller&layout=compact&theme=radical)  
+![Статистика GitHub](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LeeGeller&show_icons=true&theme=radical)
+![Топ языки](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LeeGeller&layout=compact&theme=radical)
 
 ## 💬 Контакты  
 

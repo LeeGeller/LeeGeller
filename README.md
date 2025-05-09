@@ -14,7 +14,7 @@
 
 ## 💬 Контакты  
 
-- LinkedIn: [LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png) | [LinkedIn](https://www.linkedin.com/in/lee-geller/) 
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/lee-geller/) 
 - 🐙 GitHub: [GitHub](https://github.com/LeeGeller)
 - 💬 Telegram: [Telegram](https://t.me/BoboBoWhisky)
 

@@ -14,11 +14,9 @@
 
 ## 💬 Контакты  
 
-| Канал      | Ссылка                                  |
-|------------|-----------------------------------------|
-| ![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png) | [LinkedIn](https://www.linkedin.com/in/lee-geller/) |
-| ![GitHub](https://img.icons8.com/fluency/48/000000/github.png)   | [GitHub](https://github.com/LeeGeller) |
-| ![Telegram](https://img.icons8.com/fluency/48/000000/telegram-app.png) | [Telegram](https://t.me/BoboBoWhisky) |
+- LinkedIn: [LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png) | [LinkedIn](https://www.linkedin.com/in/lee-geller/) 
+- 🐙 GitHub: [GitHub](https://github.com/LeeGeller)
+- 💬 Telegram: [Telegram](https://t.me/BoboBoWhisky)
 
 
 ## 🌱 Мои навыки

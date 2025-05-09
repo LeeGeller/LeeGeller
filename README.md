@@ -24,11 +24,13 @@
 | Языки программирования | Фреймворки                          | Инструменты              | Базы данных         | DevOps           | Безопасность    |
 |------------------------|-------------------------------------|--------------------------|---------------------|------------------|-----------------|
 | ![Python](https://img.shields.io/badge/Python-3.12-blue?style=flat&logo=python) | ![Django](https://img.shields.io/badge/Django-4.2-blue?style=flat&logo=django) ![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-3.12-blue?style=flat&logo=django) | ![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue?style=flat&logo=postgresql) | ![Docker](https://img.shields.io/badge/Docker-20.10-blue?style=flat&logo=docker) | ![JWT & OAuth2.0](https://img.shields.io/badge/JWT%20%26%20OAuth2.0-blue?style=flat&logo=json-web-tokens&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat&logo=javascript) | ![Flask](https://img.shields.io/badge/Flask-2.1-blue?style=flat&logo=flask) | ![Celery](https://img.shields.io/badge/Celery-5.2-blue?style=flat&logo=celery) | ![SQLite](https://img.shields.io/badge/SQLite-3-blue?style=flat&logo=sqlite) | ![CI/CD](https://img.shields.io/badge/GitHub%20Actions-1.0-green?style=flat&logo=github-actions) | |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat&logo=javascript) | ![Flask](https://img.shields.io/badge/Flask-2.1-blue?style=flat&logo=flask) ![FastAPI](https://img.shields.io/badge/FastAPI-0.89-blue?style=flat&logo=fastapi) | ![Celery](https://img.shields.io/badge/Celery-5.2-blue?style=flat&logo=celery) | ![SQLite](https://img.shields.io/badge/SQLite-3-blue?style=flat&logo=sqlite) | ![CI/CD](https://img.shields.io/badge/GitHub%20Actions-1.0-green?style=flat&logo=github-actions) | |
 | ![Java](https://img.shields.io/badge/Java-11-blue?style=flat&logo=java) | | ![Redis](https://img.shields.io/badge/Redis-6.2-red?style=flat&logo=redis) | | ![Nginx](https://img.shields.io/badge/Nginx-1.18-blue?style=flat&logo=nginx) |
 | | | ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0-blue?style=flat&logo=python) | | | |
 | | | ![Alembic](https://img.shields.io/badge/Alembic-1.7-blue?style=flat&logo=python) | | | |
 | | | ![pytest](https://img.shields.io/badge/pytest-6.2-blue?style=flat&logo=pytest) | | | |
+| | | ![Aiogram](https://img.shields.io/badge/Aiogram-2.21-blue?style=flat&logo=python) | | | |
+
 
 
 ## 🧪 **Юнит-тестирование**

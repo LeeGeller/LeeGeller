@@ -14,9 +14,9 @@
 
 ## 💬 Контакты  
 
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/lee-geller/) 
-- 🐙 GitHub: [GitHub](https://github.com/LeeGeller)
-- 💬 Telegram: [Telegram](https://t.me/BoboBoWhisky)
+- [LinkedIn](https://www.linkedin.com/in/lee-geller/) 
+- 🐙 [GitHub](https://github.com/LeeGeller)
+- 💬 [Telegram](https://t.me/BoboBoWhisky)
 
 
 ## 🌱 Мои навыки

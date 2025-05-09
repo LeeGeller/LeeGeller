@@ -12,6 +12,15 @@
 - 🔍 Практикую интеграцию внешних API, работу с базами данных (`PostgreSQL`, `SQLAlchemy`), настройку инфраструктуры (`Docker`, `Redis`) и CI/CD
 - 🎯 Главный фокус: проектирование архитектуры, создание асинхронных систем на Python и разработка полезных AI-инструментов для автоматизации
 
+
+## 💬 Контакты  
+
+| Канал      | Ссылка                                |
+|------------|---------------------------------------|
+| ![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png) | [LinkedIn](https://www.linkedin.com/in/lee-geller/) |
+|  ![GitHub](https://img.icons8.com/fluency/48/000000/github.png) | [Портфолио](https://github.com/LeeGeller/lee_portfolio/blob/main/README.md) |
+| ![Telegram](https://img.icons8.com/fluency/48/000000/telegram-app.png) | [Telegram](https://t.me/BoboBoWhisky) |
+
 ## 🌱 Мои навыки
 
 | Языки программирования | Фреймворки                          | Инструменты              | Базы данных         | DevOps           | Безопасность    |
@@ -52,13 +61,5 @@
 ![Статистика GitHub](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LeeGeller&show_icons=true&theme=radical)
 ![Топ языки](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LeeGeller&layout=compact&theme=radical)
 
-## 💬 Контакты  
-
-| Канал      | Ссылка                                |
-|------------|---------------------------------------|
-| ![Email](https://img.icons8.com/fluency/48/000000/email.png)   | [ssspers92@gmail.com](mailto:ssspers92@gmail.com)  |
-| ![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png) | [LinkedIn](https://www.linkedin.com/in/lee-geller/) |
-|  ![GitHub](https://img.icons8.com/fluency/48/000000/github.png) | [Портфолио](https://github.com/LeeGeller/LeeGeller-) |
-| ![Telegram](https://img.icons8.com/fluency/48/000000/telegram-app.png) | [Telegram](https://t.me/BoboBoWhisky) |
 
 

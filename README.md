@@ -12,14 +12,14 @@
 - 🔍 Практикую интеграцию внешних API, работу с базами данных (`PostgreSQL`, `SQLAlchemy`), настройку инфраструктуры (`Docker`, `Redis`) и CI/CD
 - 🎯 Главный фокус: проектирование архитектуры, создание асинхронных систем на Python и разработка полезных AI-инструментов для автоматизации
 
-
 ## 💬 Контакты  
 
-| Канал      | Ссылка                                |
-|------------|---------------------------------------|
+| Канал      | Ссылка                                  |
+|------------|-----------------------------------------|
 | ![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png) | [LinkedIn](https://www.linkedin.com/in/lee-geller/) |
-|  ![GitHub](https://img.icons8.com/fluency/48/000000/github.png) | [Портфолио](https://github.com/LeeGeller/lee_portfolio/blob/main/README.md) |
+| ![GitHub](https://img.icons8.com/fluency/48/000000/github.png)   | [GitHub](https://github.com/LeeGeller) |
 | ![Telegram](https://img.icons8.com/fluency/48/000000/telegram-app.png) | [Telegram](https://t.me/BoboBoWhisky) |
+
 
 ## 🌱 Мои навыки
 

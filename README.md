@@ -4,15 +4,13 @@
 
 - Изучаю Go и углубляю знания в области конкурентности, асинхронного программирования и очередей задач.
 - Развиваю собственные backend-проекты:
-  VacancyHunter — система агрегации вакансий с асинхронной обработкой данных, Telegram-ботом и фоновыми задачами на Celery.
   Neurohunter — проект по автоматизации поиска и анализа вакансий.
 - Работаю с интеграцией внешних API, PostgreSQL, SQLAlchemy, Docker, Redis и инструментами автоматизации.
 - Изучаю подходы к проектированию надёжных и поддерживаемых backend-сервисов.
-- Основной интерес: backend-разработка, обработка данных, автоматизация процессов и AI-инструменты.
+- Основной интерес: backend-разработка, обработка данных, автоматизация процессов.
 
 ## 💬 Контакты  
 
-- 🐙 [GitHub](https://github.com/LeeGeller)
 - 💬 [Telegram](https://t.me/BoboBoWhisky)
 
 
@@ -47,10 +45,6 @@
 | Взаимодействие с аналитиками | Анализ требований и уточнение бизнес-логики                              |
 | Работа с legacy              | Поддержка и развитие крупной кодовой базы с длительной историей развития |
 
-
-## 📈 Статистика GitHub  
-![Статистика GitHub](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LeeGeller&show_icons=true&theme=radical)
-![Топ языки](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LeeGeller&layout=compact&theme=radical)
 
 
 

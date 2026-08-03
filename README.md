@@ -19,11 +19,11 @@
 | Категория                      | Технологии                                            |
 | ------------------------------ | ----------------------------------------------------- |
 | 🐍 **Backend**                 | Python, Django, Django REST Framework, FastAPI |
-| 🗄️ **Базы данных**            | PostgreSQL, SQLite, SQLAlchemy, Alembic               |
+| 🗄️ **Базы данных**            | PostgreSQL, SQLite, SQLAlchemy, Alembic, MongoDB           |
 | 🛠️ **Инструменты разработки** | Git, Linux, Docker, Redis, Celery, pytest             |
 | 🔐 **API и безопасность**      | REST API, JWT Authentication                          |
 | ⚙️ **Автоматизация и CI/CD**   | GitHub Actions                                        |
-| 🚀 **Изучаю**                  | Go                                                    |
+| 🚀 **Дополнительно изучаю**                  | Go                                                    |
 
 
 
